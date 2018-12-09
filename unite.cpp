@@ -1,8 +1,8 @@
 #include<bits/stdc++.h>
 #include<cstdlib>
 #include<windows.h> 
-int f[10001][10001];
-int a[100001],s[100001];
+int f[1001][1001];
+int a[10001],s[10001];
 int n;
 using namespace std;
 int main()

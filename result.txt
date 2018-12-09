@@ -1,0 +1,16 @@
+time:0.014s
+memory:3.23828125mb
+Test 0.out Wrong Answer
+time:0.015s
+memory:3.21484375mb
+Test 1.out Accepted
+time:0.008s
+memory:3.2578125mb
+Test 2.out Wrong Answer
+time:0.007s
+memory:3.2734375mb
+Test 3.out Wrong Answer
+time:0.009s
+memory:3.2265625mb
+Test 4.out Wrong Answer
+您的总分为:20result:Wrong Answer

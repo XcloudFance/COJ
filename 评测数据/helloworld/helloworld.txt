@@ -1,0 +1,14 @@
+【题目】
+输出helloworld!
+【样例输入】
+无
+【样例输出】
+helloworld!
+
+标程献上:
+#include<iostream>
+using namespace std;
+int main()
+{
+	cout<<"helloworld!"<<endl;
+}
